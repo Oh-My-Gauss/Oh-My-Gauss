@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Oh-My-Gauss
-- 👀 I’m interested in eLearning and DataScience.
+- 👀 I’m interested in eLearning and Data Science. Also xAPI.
 - 🌱 I’m currently learning Python and R.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
