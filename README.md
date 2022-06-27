@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Carlos.
 - 👀 I program in C# and .NET framework. 
-- 🌱 I’m currently learning MySQL and DB.
+
 - 🚲 I love cycling and climbing mountains on my free time.
 
 <!---
